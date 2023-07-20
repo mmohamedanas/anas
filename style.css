@@ -1,0 +1,125 @@
+nav {
+    border: 1px solid rgb(29, 28, 28);
+    background-color: white;
+    box-sizing: border-box;
+    padding: 25px;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  i {
+    font-family: serif;
+    font-size: 18px;
+    color: maroon;
+  }
+  .brand {
+    font-size: 20px;
+    color: maroon;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  .home {
+    font-size: 20px;
+    margin-left: 300px;
+  }
+  .product {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  .video {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  .blog {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  .contact {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+
+  .fa-sign-in {
+    font-size: 20px;
+    margin-left: 80px;
+    color: crimson;
+  }
+  .signin {
+    font-size: 20px;
+  }
+  .login {
+    font-size: 20px;
+  }
+  .fa-user {
+    font-size: 20px;
+    color: blue;
+    margin-left: 10px;
+  }
+  button {
+    border: 0px solid black;
+    border-radius: 5px;
+    background-color: white;
+  }
+  button:hover {
+    font-size: 24px;
+    background-color: blueviolet;
+    color: white;
+  }
+  .create {
+    border:1px solid black;
+    background-color:rgb(157, 73, 235);
+    padding:10px
+  }
+  .content {
+    height: 400px;
+    width: 400px;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left
+  }
+  .content:hover {
+    color:brown
+  }
+  .image {
+    float: left;
+    margin-left: 170px;
+    margin-top:40px;
+    
+     border-radius:5px
+
+      }
+  .image2 {
+     margin-top:70px;
+     border:1px solid black;
+     border-radius:5px
+    
+  }
+
+  footer {
+    background-color:rgb(167, 160, 160);
+    margin-top:1000px;
+    height:200px;
+    padding:30px
+  }
+  .fdiv1 {
+    float:left;
+    margin-left:30px;
+
+  }
+  .fdiv2 {
+    float:left;
+    margin-left:150px;
+    margin-top:50px;
+        
+  }
+  .fa-phone-square {
+    margin-bottom:10px;
+  }
+  .fa {
+    font-size:30px;
+    margin-bottom:10px
+  }
+  .footicon {
+    font-size:23px;
+    margin-left:10px;
+    margin-bottom:10px
+  }
